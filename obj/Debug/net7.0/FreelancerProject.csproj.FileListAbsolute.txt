@@ -1,0 +1,15 @@
+C:\Users\xLmNt-Pc\source\repos\Backend_Lecture_Materials\Freelancer\bin\Debug\net7.0\FreelancerProject.exe
+C:\Users\xLmNt-Pc\source\repos\Backend_Lecture_Materials\Freelancer\bin\Debug\net7.0\FreelancerProject.deps.json
+C:\Users\xLmNt-Pc\source\repos\Backend_Lecture_Materials\Freelancer\bin\Debug\net7.0\FreelancerProject.runtimeconfig.json
+C:\Users\xLmNt-Pc\source\repos\Backend_Lecture_Materials\Freelancer\bin\Debug\net7.0\FreelancerProject.dll
+C:\Users\xLmNt-Pc\source\repos\Backend_Lecture_Materials\Freelancer\bin\Debug\net7.0\FreelancerProject.pdb
+C:\Users\xLmNt-Pc\source\repos\Backend_Lecture_Materials\Freelancer\obj\Debug\net7.0\FreelancerProject.csproj.AssemblyReference.cache
+C:\Users\xLmNt-Pc\source\repos\Backend_Lecture_Materials\Freelancer\obj\Debug\net7.0\FreelancerProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xLmNt-Pc\source\repos\Backend_Lecture_Materials\Freelancer\obj\Debug\net7.0\FreelancerProject.AssemblyInfoInputs.cache
+C:\Users\xLmNt-Pc\source\repos\Backend_Lecture_Materials\Freelancer\obj\Debug\net7.0\FreelancerProject.AssemblyInfo.cs
+C:\Users\xLmNt-Pc\source\repos\Backend_Lecture_Materials\Freelancer\obj\Debug\net7.0\FreelancerProject.csproj.CoreCompileInputs.cache
+C:\Users\xLmNt-Pc\source\repos\Backend_Lecture_Materials\Freelancer\obj\Debug\net7.0\FreelancerProject.dll
+C:\Users\xLmNt-Pc\source\repos\Backend_Lecture_Materials\Freelancer\obj\Debug\net7.0\refint\FreelancerProject.dll
+C:\Users\xLmNt-Pc\source\repos\Backend_Lecture_Materials\Freelancer\obj\Debug\net7.0\FreelancerProject.pdb
+C:\Users\xLmNt-Pc\source\repos\Backend_Lecture_Materials\Freelancer\obj\Debug\net7.0\FreelancerProject.genruntimeconfig.cache
+C:\Users\xLmNt-Pc\source\repos\Backend_Lecture_Materials\Freelancer\obj\Debug\net7.0\ref\FreelancerProject.dll
